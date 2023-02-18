@@ -1,4 +1,4 @@
-## Mini Project DSLS 2023: Data Analysst
+## Mini Project DSLS 2023: Data Analyst
   
 Repository ini tidak memiliki direktori seperti dua projek lainnya. Hanya terdiri dari dua buah file yaitu file report dan file Power BI. Analisis yang dilakukan berisikan pengembangan dari Mini Project Data Engineer yang telah dibuat sebelumnya. 
 
